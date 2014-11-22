@@ -1,7 +1,9 @@
-Xcode-Empty-Application
+Xcode Empty Application Template
 =======================
 
-Adding the Empty Application template back to Xcode
+Adding the Empty Application template back to Xcode.
+
+<p align="center"><img title="Open and close animation" src="https://raw.github.com/rnystrom/Xcode-Empty-Application/master/screenshot.jpg"/></p>
 
 # Installation
 
